@@ -4,7 +4,7 @@ A Simple 4 Channels HiFi Eurorack Mixer.
 
 This module is inspired by the [Doepfer A-138n](https://doepfer.de/a138n.htm) and uses some parts of the schematics of the [Befaco STMix](https://www.befaco.org/stmix/).
 
-While inspired by those modules, it is better at handling audio signals because of the high quality capacitors it uses.  
+While inspired by those modules, it is better at handling audio signals because of the high quality capacitors it uses on the audio path and the better overall noise filtering.  
 
 ## Features
 

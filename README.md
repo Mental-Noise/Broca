@@ -27,9 +27,9 @@ However, if you want to make it for even cheaper or use more widely available co
 
 ## Where to buy
 
-The module will soon be available on [my Tindie store](https://www.tindie.com/stores/mentalnoise/) as a kit or fully assembled but feel free to build it yourself from scratch using the resources in this repository.
+The module will soon be available on [my Tindie store](https://www.tindie.com/products/mentalnoise/broca-4-channels-mixer/) as a kit or fully assembled but feel free to build it yourself from scratch using the resources in this repository.
 
-Have a look on [ModularGrid](https://modulargrid.net/e/mental-noise-broca)!
+Have a look on [ModularGrid](https://modulargrid.net/e/mental-noise-broca) too!
 
 ## Schematics
 

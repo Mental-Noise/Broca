@@ -4,15 +4,15 @@ A Simple 4 Channels HiFi Eurorack Mixer.
 
 This module is inspired by the [Doepfer A-138n](https://doepfer.de/a138n.htm) and uses some parts of the schematics of the [Befaco STMix](https://www.befaco.org/stmix/).
 
-While inspired by those modules, it is better at handling audio signals because of it's high quality components specifically designed for high quality audio applications.  
+While inspired by those modules, it is better at handling audio signals because of the high quality capacitors it uses.  
 
 ## Features
 
 - 4 mono channels with independent volume control
 - 1 output
 - 1 inverted output
-- High quality audio capacitors (Nichicon MUSE ES Bipolar)
-- High quality audio amplifiers (Texas Instruments OPA4134)
+- High quality audio capacitors on the signal path (Nichicon MUSE ES Bipolar)
+- Low ESR filtering capacitors on the power path
 - 4 HP
 - 0.005 mA +12V
 - 0.005 mA -12V
@@ -22,7 +22,7 @@ This module is designed to mix audio signals with very low noise and distorsion.
 Mixing CV signals is also possible but low frequency signals can get distorted in unexpected ways, try it and see if it works for you :)
 
 While using high quality audio components, this module still end up being quite cheap to build if you order parts in bulk.  
-However, if you want to make it for even cheaper or use more widely available components, feel free to replace the MUSE ES capacitors (C9, C10, C11, C12) by any regular 10µF unipolar electrolytic capacitor (make sure to respect polarity) and the OPA4134 amplifiers by some TL074.
+However, if you want to make it for even cheaper or use more widely available components, feel free to replace the MUSE ES capacitors (C9, C10, C11, C12) and the low ESR capacitors (C1, C2) by any regular 10µF unipolar electrolytic capacitor.
 
 ## Where to buy
 

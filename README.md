@@ -1,6 +1,8 @@
 # Broca
 
-A Simple 4 Channels HiFi Eurorack Mixer.
+A Simple 4 Channels Eurorack Audio Mixer.
+
+![Broca - Mental Noise](./broca.jpg)
 
 This module is inspired by the [Doepfer A-138n](https://doepfer.de/a138n.htm) and uses some parts of the schematics of the [Befaco STMix](https://www.befaco.org/stmix/).
 
@@ -13,9 +15,8 @@ While inspired by those modules, it is better at handling audio signals because 
 - 1 inverted output
 - High quality audio capacitors on the signal path (Nichicon MUSE ES Bipolar)
 - Low ESR filtering capacitors on the power path
-- 4 HP
-- 0.005 mA +12V
-- 0.005 mA -12V
+- 4 HP / 37mm depth
+- 5mA +12V / 5mA -12V
 
 This module is designed to mix audio signals with very low noise and distorsion.
 
@@ -28,9 +29,13 @@ However, if you want to make it for even cheaper or use more widely available co
 
 The module will soon be available on [my Tindie store](https://www.tindie.com/stores/mentalnoise/) as a kit or fully assembled but feel free to build it yourself from scratch using the resources in this repository.
 
+Have a look on [ModularGrid](https://modulargrid.net/e/mental-noise-broca)!
+
 ## Schematics
 
 All schematics can be found in the [schematics folder](./schematics).
+
+The [build guide](./Mental%20Noise%20-%20Broca.pdf) is available as a PDF.
 
 To import the schematics:
 - Install EasyEDA at https://easyeda.com/ and download the standard edition
